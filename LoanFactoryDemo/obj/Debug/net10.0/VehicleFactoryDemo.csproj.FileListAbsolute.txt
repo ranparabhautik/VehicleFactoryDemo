@@ -1,0 +1,14 @@
+C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\bin\Debug\net10.0\VehicleFactoryDemo.exe
+C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\bin\Debug\net10.0\VehicleFactoryDemo.deps.json
+C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\bin\Debug\net10.0\VehicleFactoryDemo.runtimeconfig.json
+C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\bin\Debug\net10.0\VehicleFactoryDemo.dll
+C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\bin\Debug\net10.0\VehicleFactoryDemo.pdb
+C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.AssemblyInfoInputs.cache
+C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.AssemblyInfo.cs
+C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.csproj.CoreCompileInputs.cache
+C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.dll
+C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\refint\VehicleFactoryDemo.dll
+C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.pdb
+C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.genruntimeconfig.cache
+C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\ref\VehicleFactoryDemo.dll
