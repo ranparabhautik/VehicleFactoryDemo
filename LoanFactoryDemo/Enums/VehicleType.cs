@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace VehicleFactoryDemo
+namespace VehicleFactoryDemo.Enums
 {
     public enum VehicleType
     {

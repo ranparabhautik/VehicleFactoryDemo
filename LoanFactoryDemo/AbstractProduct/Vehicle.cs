@@ -1,4 +1,6 @@
-﻿namespace VehicleFactoryDemo.AbstractProduct;
+﻿using VehicleFactoryDemo.Enums;
+
+namespace VehicleFactoryDemo.AbstractProduct;
 
 public abstract class Vehicle:BaseEntity
 {

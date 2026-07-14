@@ -12,3 +12,22 @@ C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\obj\D
 C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.pdb
 C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.genruntimeconfig.cache
 C:\Users\bhautik.ranpara\source\repos\MCPs\LoanFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\ref\VehicleFactoryDemo.dll
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\bin\Debug\net10.0\VehicleFactoryDemo.exe
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\bin\Debug\net10.0\VehicleFactoryDemo.deps.json
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\bin\Debug\net10.0\VehicleFactoryDemo.runtimeconfig.json
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\bin\Debug\net10.0\VehicleFactoryDemo.dll
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\bin\Debug\net10.0\VehicleFactoryDemo.pdb
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.csproj.AssemblyReference.cache
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.AssemblyInfoInputs.cache
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.AssemblyInfo.cs
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.csproj.CoreCompileInputs.cache
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.sourcelink.json
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleF.E9ACD416.Up2Date
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.dll
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\refint\VehicleFactoryDemo.dll
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.pdb
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\VehicleFactoryDemo.genruntimeconfig.cache
+D:\Dotnet Projects\VehicleFactoryDemo\LoanFactoryDemo\obj\Debug\net10.0\ref\VehicleFactoryDemo.dll

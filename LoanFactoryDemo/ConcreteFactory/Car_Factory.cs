@@ -4,6 +4,7 @@ using System.Text;
 using VehicleFactoryDemo.AbstractFactory;
 using VehicleFactoryDemo.AbstractProduct;
 using VehicleFactoryDemo.ConcreteProduct;
+using VehicleFactoryDemo.Enums;
 
 namespace VehicleFactoryDemo.ConcreteFactory
 {
@@ -11,24 +12,22 @@ namespace VehicleFactoryDemo.ConcreteFactory
     {
         public VehicleType VehicleType => VehicleType.Car;
 
-        public Vehicle CreateVehicle(string Id,string VehicleNo,int price)
+        public Vehicle CreateVehicle(string VehicleNo, string ModelName, string color, int price)
         {
-            return new Car_Vehicle_Product()
+            return new Car_Vehicle_Product
             {
-                Id = Id,
-                HaveSunroof = true,
-                ModelName = "Creta",
-                VehicleNo = VehicleNo,
-                VehicleType = VehicleType.Car,
-                FuelTankCapacity = 10,
-                Color = "White",
-                fuelType = FuelType.Petrol,
-                IsAutoTransMission = true,
-                Manifacturer = "Tata",
-                ManufacturingDate = DateTime.Now.AddDays(-10),   
+                VehicleNo= VehicleNo,
+                ModelName= ModelName,
+                Color = color,
                 Price = price,
-                 SeatingCapacity = 5
-
+                Manifacturer = "Tata Motors",
+                VehicleType = VehicleType.Car,
+                fuelType = FuelType.Petrol,
+                SeatingCapacity = 5,
+                ManufacturingDate = DateTime.Now,
+                HaveSunroof = true,
+                IsAutoTransMission = false
+                
             };
         }
     }

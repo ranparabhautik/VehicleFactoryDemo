@@ -1,50 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\",
+  "WorkspaceRootPath": "D:\\Dotnet Projects\\VehicleFactoryDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\loanfactorydemo\\loanfactorydemo\\concretefactory\\car_factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\concretefactory\\car_factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\loanfactorydemo\\loanfactorydemo\\abstractfactory\\ivehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\abstractfactory\\ivehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\services\\vehicleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\services\\vehicleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\loanfactorydemo\\loanfactorydemo\\concreteproduct\\car_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\concreteproduct\\car_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\abstractfactory\\ivehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\abstractfactory\\ivehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\loanfactorydemo\\loanfactorydemo\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\concretefactory\\truck_factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\concretefactory\\truck_factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\loanfactorydemo\\loanfactorydemo\\abstractproduct\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\abstractproduct\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\factoryprovider\\ivehiclefactoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\factoryprovider\\ivehiclefactoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\loanfactorydemo\\loanfactorydemo\\concreteproduct\\electriccar_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\concreteproduct\\electriccar_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\factoryprovider\\vehiclefactoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\factoryprovider\\vehiclefactoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\loanfactorydemo\\loanfactorydemo\\concreteproduct\\bus_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\concreteproduct\\bus_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\concretefactory\\bus_factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\concretefactory\\bus_factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\loanfactorydemo\\loanfactorydemo\\concreteproduct\\truck_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\concreteproduct\\truck_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\concretefactory\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\concretefactory\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\loanfactorydemo\\loanfactorydemo\\concreteproduct\\bike_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\concreteproduct\\bike_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\concretefactory\\car_factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\concretefactory\\car_factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\loanfactorydemo\\loanfactorydemo\\fueltankcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\fueltankcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\concretefactory\\bike_factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\concretefactory\\bike_factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\LoanFactoryDemo.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\loanfactorydemo\\loanfactorydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B603775E-4DA7-4172-ABD1-56E420B5B081}|LoanFactoryDemo\\LoanFactoryDemo.csproj|solutionrelative:loanfactorydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\enums\\vehicletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\enums\\vehicletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\abstractproduct\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\abstractproduct\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\concreteproduct\\car_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\concreteproduct\\car_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\concreteproduct\\electriccar_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\concreteproduct\\electriccar_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\concreteproduct\\bus_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\concreteproduct\\bus_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\concreteproduct\\truck_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\concreteproduct\\truck_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\concreteproduct\\bike_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\concreteproduct\\bike_vehicle_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|d:\\dotnet projects\\vehiclefactorydemo\\loanfactorydemo\\fueltankcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C429D7D7-05DD-21F3-3B1F-77AB2B5F6F7B}|LoanFactoryDemo\\VehicleFactoryDemo.csproj|solutionrelative:loanfactorydemo\\fueltankcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,150 +86,237 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Car_Factory.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\ConcreteFactory\\Car_Factory.cs",
-              "RelativeDocumentMoniker": "LoanFactoryDemo\\ConcreteFactory\\Car_Factory.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\ConcreteFactory\\Car_Factory.cs",
-              "RelativeToolTip": "LoanFactoryDemo\\ConcreteFactory\\Car_Factory.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T13:08:48.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "LoanFactoryDemo\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\BaseEntity.cs",
-              "RelativeToolTip": "LoanFactoryDemo\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T13:06:48.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IVehicleFactory.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\AbstractFactory\\IVehicleFactory.cs",
-              "RelativeDocumentMoniker": "LoanFactoryDemo\\AbstractFactory\\IVehicleFactory.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\AbstractFactory\\IVehicleFactory.cs",
-              "RelativeToolTip": "LoanFactoryDemo\\AbstractFactory\\IVehicleFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABCAAAAAAAAAA==",
+              "Title": "VehicleServices.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\Services\\VehicleServices.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\Services\\VehicleServices.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\Services\\VehicleServices.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\Services\\VehicleServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:49:56.336Z",
+              "WhenOpened": "2026-07-14T18:44:42.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ElectricCar_Vehicle_Product.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\ElectricCar_Vehicle_Product.cs",
-              "RelativeDocumentMoniker": "LoanFactoryDemo\\ConcreteProduct\\ElectricCar_Vehicle_Product.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\ElectricCar_Vehicle_Product.cs",
-              "RelativeToolTip": "LoanFactoryDemo\\ConcreteProduct\\ElectricCar_Vehicle_Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "VehicleFactoryProvider.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\FactoryProvider\\VehicleFactoryProvider.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\FactoryProvider\\VehicleFactoryProvider.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\FactoryProvider\\VehicleFactoryProvider.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\FactoryProvider\\VehicleFactoryProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:43:37.496Z",
+              "WhenOpened": "2026-07-14T18:22:01.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVehicleFactoryProvider.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\FactoryProvider\\IVehicleFactoryProvider.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\FactoryProvider\\IVehicleFactoryProvider.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\FactoryProvider\\IVehicleFactoryProvider.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\FactoryProvider\\IVehicleFactoryProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T18:20:11.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Truck_Factory.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteFactory\\Truck_Factory.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\ConcreteFactory\\Truck_Factory.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteFactory\\Truck_Factory.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\ConcreteFactory\\Truck_Factory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T17:39:18.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVehicleFactory.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\AbstractFactory\\IVehicleFactory.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\AbstractFactory\\IVehicleFactory.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\AbstractFactory\\IVehicleFactory.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\AbstractFactory\\IVehicleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:49:56.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\Program.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\Program.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\Program.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T11:57:50.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Bus_Vehicle_Product.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\Bus_Vehicle_Product.cs",
-              "RelativeDocumentMoniker": "LoanFactoryDemo\\ConcreteProduct\\Bus_Vehicle_Product.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\Bus_Vehicle_Product.cs",
-              "RelativeToolTip": "LoanFactoryDemo\\ConcreteProduct\\Bus_Vehicle_Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "Bus_Factory.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteFactory\\Bus_Factory.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\ConcreteFactory\\Bus_Factory.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteFactory\\Bus_Factory.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\ConcreteFactory\\Bus_Factory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:42:53.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T17:44:45.227Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Truck_Vehicle_Product.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\Truck_Vehicle_Product.cs",
-              "RelativeDocumentMoniker": "LoanFactoryDemo\\ConcreteProduct\\Truck_Vehicle_Product.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\Truck_Vehicle_Product.cs",
-              "RelativeToolTip": "LoanFactoryDemo\\ConcreteProduct\\Truck_Vehicle_Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "ElectricCar.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteFactory\\ElectricCar.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\ConcreteFactory\\ElectricCar.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteFactory\\ElectricCar.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\ConcreteFactory\\ElectricCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:42:10.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Bike_Vehicle_Product.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\Bike_Vehicle_Product.cs",
-              "RelativeDocumentMoniker": "LoanFactoryDemo\\ConcreteProduct\\Bike_Vehicle_Product.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\Bike_Vehicle_Product.cs",
-              "RelativeToolTip": "LoanFactoryDemo\\ConcreteProduct\\Bike_Vehicle_Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:40:38.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Car_Vehicle_Product.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\Car_Vehicle_Product.cs",
-              "RelativeDocumentMoniker": "LoanFactoryDemo\\ConcreteProduct\\Car_Vehicle_Product.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\Car_Vehicle_Product.cs",
-              "RelativeToolTip": "LoanFactoryDemo\\ConcreteProduct\\Car_Vehicle_Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:38:47.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\AbstractProduct\\Vehicle.cs",
-              "RelativeDocumentMoniker": "LoanFactoryDemo\\AbstractProduct\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\AbstractProduct\\Vehicle.cs",
-              "RelativeToolTip": "LoanFactoryDemo\\AbstractProduct\\Vehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:21:25.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T17:42:22.823Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "FuelTankCap.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\FuelTankCap.cs",
-              "RelativeDocumentMoniker": "LoanFactoryDemo\\FuelTankCap.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\FuelTankCap.cs",
-              "RelativeToolTip": "LoanFactoryDemo\\FuelTankCap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Title": "Bike_Factory.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteFactory\\Bike_Factory.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\ConcreteFactory\\Bike_Factory.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteFactory\\Bike_Factory.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\ConcreteFactory\\Bike_Factory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:36:45.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T17:33:03.457Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\Program.cs",
-              "RelativeDocumentMoniker": "LoanFactoryDemo\\Program.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\LoanFactoryDemo\\LoanFactoryDemo\\Program.cs",
-              "RelativeToolTip": "LoanFactoryDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Title": "VehicleType.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\Enums\\VehicleType.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\Enums\\VehicleType.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\Enums\\VehicleType.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\Enums\\VehicleType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T11:57:50.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-14T17:36:14.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Truck_Vehicle_Product.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\Truck_Vehicle_Product.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\ConcreteProduct\\Truck_Vehicle_Product.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\Truck_Vehicle_Product.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\ConcreteProduct\\Truck_Vehicle_Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:42:10.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Car_Vehicle_Product.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\Car_Vehicle_Product.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\ConcreteProduct\\Car_Vehicle_Product.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\Car_Vehicle_Product.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\ConcreteProduct\\Car_Vehicle_Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:38:47.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car_Factory.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteFactory\\Car_Factory.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\ConcreteFactory\\Car_Factory.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteFactory\\Car_Factory.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\ConcreteFactory\\Car_Factory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T13:08:48.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bus_Vehicle_Product.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\Bus_Vehicle_Product.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\ConcreteProduct\\Bus_Vehicle_Product.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\Bus_Vehicle_Product.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\ConcreteProduct\\Bus_Vehicle_Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:42:53.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\AbstractProduct\\Vehicle.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\AbstractProduct\\Vehicle.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\AbstractProduct\\Vehicle.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\AbstractProduct\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:21:25.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ElectricCar_Vehicle_Product.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\ElectricCar_Vehicle_Product.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\ConcreteProduct\\ElectricCar_Vehicle_Product.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\ElectricCar_Vehicle_Product.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\ConcreteProduct\\ElectricCar_Vehicle_Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:43:37.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\BaseEntity.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\BaseEntity.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T13:06:48.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Bike_Vehicle_Product.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\Bike_Vehicle_Product.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\ConcreteProduct\\Bike_Vehicle_Product.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\ConcreteProduct\\Bike_Vehicle_Product.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\ConcreteProduct\\Bike_Vehicle_Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:40:38.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FuelTankCap.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\FuelTankCap.cs",
+              "RelativeDocumentMoniker": "LoanFactoryDemo\\FuelTankCap.cs",
+              "ToolTip": "D:\\Dotnet Projects\\VehicleFactoryDemo\\LoanFactoryDemo\\FuelTankCap.cs",
+              "RelativeToolTip": "LoanFactoryDemo\\FuelTankCap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:36:45.001Z"
             }
           ]
         }
